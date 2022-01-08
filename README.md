@@ -8,4 +8,4 @@ using [FlashDevelop](https://www.flashdevelop.org/ "FlashDevelop")  IDE and [fli
 
 
 ## Disclaimer 
-this project was created in the days were flas was cool, now adays it consederd a bad thing.
+this project was built in the days were flash was cool, now adays it consederd a bad thing.
